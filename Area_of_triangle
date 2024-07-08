@@ -1,0 +1,4 @@
+b=int(input("ENTER THE BASE="))
+h=int(input("ENTER THE HEIGHT="))
+area=0.5*b*h
+print("AREA OF TRIANGLE=",area)

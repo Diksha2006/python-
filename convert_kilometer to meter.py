@@ -1,0 +1,3 @@
+km=int (input("ENTER THE KILOMETER="))
+m=km*1000
+print("CONVERT THE KILOMETER TO METER=",m)

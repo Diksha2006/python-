@@ -1,0 +1,15 @@
+str="diksha RUPNAWAR"
+print(len(str))
+print(str.upper())
+print(str.lower())
+print(str.capitalize())
+print(str.title())
+str1="hello world"
+print(str1.strip())
+print(str1.replace("world","python"))
+print(str1.split(","))
+print(",".join(str1))
+print(str1.find("hello"))
+print(str1.count("l"))
+print(str1.startswith("hello"))
+print(str1.endswith("world"))

@@ -1,0 +1,12 @@
+d=int(input("ENTER THE DAYS="))
+year=int(d/365)
+print("YEAR=",year)
+mon=int(d%365)
+m=int(mon/30)
+print("month=",m)
+we=int(mon%30)
+w=int(we/7)
+print("week=",w)
+day=int(we%7)
+print("days=",day)
+
